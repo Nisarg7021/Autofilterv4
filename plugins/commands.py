@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('⚡ Updates', url='https://t.me/DTG_BOTS')
             ],[
             InlineKeyboardButton('🌟 Main Channel', url='https://t.me/FULL_OF_ENTERTAINMENT'),
-            InlineKeyboardButton('💥 Bot Movie Channel', url='https://t.me/FULL_OF_ENTERTAINMENT')
+            InlineKeyboardButton('💥 Bot Movie Channel', url='https://t.me/+CrawztSpLYwwN2U1')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('🤖 About', callback_data='about')
