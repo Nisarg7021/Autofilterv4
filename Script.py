@@ -14,7 +14,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project.
 Source - soon
-<b>DEVS: </b>
+<b>Powered by: </b>
 <a href=https://t.me/FULL_OF_ENTERTAINMENT>@FULL_OF_ENTERTAINMENT</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
