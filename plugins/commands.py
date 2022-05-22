@@ -53,9 +53,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('🤖 About', callback_data='about')
         ]]
-              [
 InlineKeyboardButton('🌟 Channel🔥', url='https://t.me/FULL_OF_ENTERTAINMENT'),
-             ] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
