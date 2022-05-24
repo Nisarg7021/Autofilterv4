@@ -53,7 +53,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('🤖 About', callback_data='about')
         ],[
-            InlineKeyboardButton('🎬 Bot Movie Channel', url='https://t.me/+JvBQVB9fa4ExMmFl')
+            InlineKeyboardButton('🔔 Movies Update', url='https://t.me/+ShKC-Q5qceFmYjBl')
         ]]
 
         reply_markup = InlineKeyboardMarkup(buttons)
